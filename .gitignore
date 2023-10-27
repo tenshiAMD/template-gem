@@ -1,0 +1,16 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+tmp/*
+!tmp/.keep
+
+node_modules
+
+lefthook-local.yml
+
+# rspec failure tracking
+.rspec_status
