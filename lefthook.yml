@@ -1,0 +1,6 @@
+commit-msg:
+  scripts:
+    "commitlint.sh":
+      runner: bash
+    "codespell.sh":
+      runner: bash
